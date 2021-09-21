@@ -6,7 +6,7 @@ This is a web app that helps the user to track their budget. It saves the transa
 ## Contents 
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Tools and Technologies](#tools-and-technologies)
+* [Tools and Technologies](#Tools-and-Technologies)
 * [Demo](#Demo)
 * [License](#License)
 * [Contact](#Questions?)
@@ -22,8 +22,12 @@ To use the application, go to the deployed link. At the top of the page, there i
   - Mongoose
 
 ## Demo
+<img  src= "https://github.com/akays89/budgetTracker/blob/master/assets/Screen%20Shot%202021-09-21%20at%203.31.43%20PM.png" />
+
 - [Deployed Application](https://ancient-anchorage-76130.herokuapp.com/)
+
 - [Github Repo](https://github.com/akays89/budgetTracker)
+
 ## License
 MIT
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
